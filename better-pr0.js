@@ -6,6 +6,6 @@
 // @include		http://pr0gramm.com/*
 // @icon		http://pr0gramm.com/media/pr0gramm-favicon.png
 // @version		0.0.1
-// @require		http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js
+// @require		https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js
 // ==/UserScript==
 console.log("Script is Ready");
