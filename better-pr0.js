@@ -8,3 +8,4 @@
 // @version		0.0.1
 // @require		http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js
 // ==/UserScript==
+console.log("Script is Ready");
